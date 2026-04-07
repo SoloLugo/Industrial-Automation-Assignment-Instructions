@@ -4,7 +4,7 @@ Trabajo Hecho por Jorge Enrique Lugo Lopez.
 ## Proyecto de Automatización Industrial - Control Combinacional con CODESYS y OpenPLC
 
 Este proyecto implementa un sistema de monitoreo de nivel para tanques químicos utilizando una arquitectura de control combinacional. La solución integra una interfaz **HMI** en CODESYS, lógica de control en **Ladder (IEC 61131-3)** y validación física mediante un **Arduino Uno** actuando como esclavo de I/O para **OpenPLC**.
-
+![imagen del ejercicio](tubosquimicos.png)
 ---
 
 ## 1. Diseño Lógico (Control Combinacional)
