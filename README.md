@@ -60,7 +60,7 @@ Para la validación física, se utilizó un **Arduino Uno** configurado como har
    - **Sensores:** Entradas digitales configuradas con resistencias de Pull-Down.
    - **Indicadores:** LEDs conectados a salidas digitales con resistencias limitadoras de corriente.
 
-*(Pega aquí la foto de tu Arduino cableado: `![Hardware Arduino](ruta/a/tu/foto.jpg)`)*
+![circuito](circuito.png)
 
 ---
 
