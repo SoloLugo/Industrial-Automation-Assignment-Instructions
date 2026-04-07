@@ -11,6 +11,10 @@ Este proyecto implementa un sistema de monitoreo de nivel para tanques químicos
 
 El sistema utiliza tres sensores digitales ($S_1, S_2, S_3$) para determinar el estado del tanque. Se diseñó una lógica robusta que incluye la detección de fallos de instrumentación para garantizar la seguridad funcional del proceso.
 
+![los rug](losrug.png)
+
+![plcprg](plcprg.png)
+
 ### Tabla de Verdad del Sistema
 
 | $S_3$ (Alto) | $S_2$ (Medio) | $S_1$ (Bajo) | Estado del Proceso | Salida Activa |
@@ -36,7 +40,7 @@ El sistema utiliza tres sensores digitales ($S_1, S_2, S_3$) para determinar el 
 
 Se desarrolló una interfaz hombre-máquina (HMI) para simular el comportamiento del tanque. 
 
-*(Pega aquí tu imagen de la HMI: `![HMI CODESYS](ruta/a/tu/imagen.png)`)*
+![HMI](vizualizasor.gif)
 
 **Lógica Ladder:**
 La implementación en diagrama de contactos sigue estrictamente las ecuaciones booleanas, utilizando contactos normalmente abiertos/cerrados para representar las entradas y bobinas para las salidas.
