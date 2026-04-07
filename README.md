@@ -40,7 +40,7 @@ El sistema utiliza tres sensores digitales ($S_1, S_2, S_3$) para determinar el 
 
 Se desarrolló una interfaz hombre-máquina (HMI) para simular el comportamiento del tanque. 
 
-![HMI](vizualizasor.gif)
+![HMI](vizualizador.gif)
 
 **Lógica Ladder:**
 La implementación en diagrama de contactos sigue estrictamente las ecuaciones booleanas, utilizando contactos normalmente abiertos/cerrados para representar las entradas y bobinas para las salidas.
