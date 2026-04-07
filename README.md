@@ -51,7 +51,7 @@ La implementación en diagrama de contactos sigue estrictamente las ecuaciones b
 
 Para la validación física, se utilizó un **Arduino Uno** configurado como hardware de campo.
 
-![probando plc en arduino uno](arduplc.mp4)
+![archivo importante](plcardi.png)
 
 ### Pasos de Configuración:
 1. **Firmware:** Se utilizó el entorno de OpenPLC para cargar el archivo `OpenPLC_Uno.ino` al microcontrolador.
