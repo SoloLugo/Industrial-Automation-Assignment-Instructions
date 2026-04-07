@@ -67,6 +67,7 @@ Para la validación física, se utilizó un **Arduino Uno** configurado como har
 ## 4. Validación y Pruebas
 
 Se realizaron pruebas de campo forzando estados lógicos inconsistentes para validar la activación de la alarma $L_5$. El sistema demostró un tiempo de respuesta óptimo y una sincronización precisa entre la HMI y el hardware real.
+![test](test2.gif)
 
 ---
 
